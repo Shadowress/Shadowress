@@ -1,5 +1,7 @@
 Passionate programmer focused on software and web development, with a drive to create efficient, real-world solutions.
 
+---
+
 ## 🔧 Skills
 ### ✅ Strong Knowledge
 - **Python** – OOP, functional programming, file handling, scripting
