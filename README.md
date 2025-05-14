@@ -19,7 +19,7 @@ Passionate programmer focused on software and web development, with a drive to c
 - **Virtual Machines (VMs)** – Setup, snapshots, usage for labs and testing
 - **Basic Networking** – IPs, ports, DNS, firewalls, routing concepts
 
-
+---
 
 ## 🚀 Projects
 - 📘 **[Customizable Mathematics Learning Website](https://github.com/Shadowress/Customizable-Mathematics-Learning-Website)**  
@@ -42,7 +42,7 @@ Passionate programmer focused on software and web development, with a drive to c
   *Intro to Java and object-oriented programming*  
   A beginner-friendly console-based system to demonstrate class design, encapsulation, and inheritance in Java.
 
-
+---
 
 ## 📫 Let's Connect!
 - LinkedIn: [linkedin.com/in/kan-kian-hao-79451b282/](https://www.linkedin.com/in/kan-kian-hao-79451b282/)
