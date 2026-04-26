@@ -1,48 +1,45 @@
-Passionate programmer focused on software and web development, with a drive to create efficient, real-world solutions.
+Passionate software engineer focused on building efficient and practical real-world solutions.
+Aspiring to contribute to safety-critical and mission-critical systems where reliability and precision are essential.
 
 ---
 
 ## 🔧 Skills
-### ✅ Strong Knowledge
-- **Python** – OOP, functional programming, file handling, scripting
-- **HTML & CSS** – Semantic HTML, responsive design, styling with Bootstrap
-- **Git & GitHub** – Version control, branching, collaboration
+**Languages**
+Python, Java, JavaScript, TypeScript, C#, C++, R, PHP, Lua, Assembly
 
-### 🛠 Basic to Intermediate Knowledge
-- **Java** – Basic OOP, class design, console applications
-- **JavaScript** – DOM manipulation, form validation, interactivity
-- **PHP** – Simple server-side scripting, handling forms
-- **Django** – Introductory use for building web apps
-- **Bootstrap 5** – Layouts, components, mobile responsiveness
+**Frameworks**
+Django, ASP.NET, Angular
 
-### 🖥 Server, Networking & Deployment (Introductory Level)
-- **Nginx** – Basic server configuration and static file serving
-- **Web Application Firewalls (WAF)** – Basic understanding of security filtering
-- **Virtual Machines (VMs)** – Setup, snapshots, usage for labs and testing
-- **Basic Networking** – IPs, ports, DNS, firewalls, routing concepts
+**Tools**
+Git, Linux
+
+**Core Knowledge**
+Networking, Cybersecurity, Artificial Intelligence
 
 ---
 
 ## 🚀 Projects
-- 📘 **[Customizable Mathematics Learning Website](https://github.com/Shadowress/Customizable-Mathematics-Learning-Website)**  
-  *Intro to Django framework*  
-  A web-based e-learning platform built using Django, featuring user roles and customizable accessibility settings such as dark mode and font size for improved usability.
+### 📚 **[Customizable Mathematics Learning Website](https://github.com/Shadowress/Customizable-Mathematics-Learning-Website)** 
+- Developed using Django with server-side rendering for core application logic
+- Designed and managed database interactions using Django ORM with SQLite
+- Deployed on a production server using Nginx and Gunicorn
+- Implemented unit testing using Django testing framework to ensure reliability
 
-- ✅ **[To-Do List Project](https://github.com/Shadowress/To-Do-List-Project)**  
-  *Intro to Python OOP and more advanced Python concepts*  
-  A command-line application to manage tasks using classes, file handling, and basic design patterns.
+---
 
-- 💰 **[Expense Tracker Project](https://github.com/Shadowress/Expense-Tracker-Project)**  
-  *Revised Python functional programming (without OOP)*  
-  A terminal-based tracker to log and summarize daily expenses using clean functional logic and file input/output.
+### 🖥️ **[Assessment Feedback System](https://github.com/Shadowress/Assessment-Feedback-System)
+- Built a desktop application using Java Swing for graphical user interaction
+- Applied MVC architecture to separate model, view, and controller layers
+- Improved maintainability and scalability through structured code design
 
-- 🌐 **[Simple Quiz Website](https://github.com/Shadowress/Simple-Quiz-Website)**  
-  *Intro to HTML, CSS, JavaScript, and PHP with responsive design*  
-  A basic quiz web app built from scratch with responsive layout and dynamic user interaction using vanilla JavaScript and server-side PHP.
+---
 
-- 🧠 **[Psychology System (Java)](https://github.com/Shadowress/Java-Psychology-System)**  
-  *Intro to Java and object-oriented programming*  
-  A beginner-friendly console-based system to demonstrate class design, encapsulation, and inheritance in Java.
+### 🤖 **[Phishing Detection Machine Learning Model](https://github.com/Shadowress/Phishing-Detection-ML)
+- Built a machine learning workflow in Jupyter Notebook for model training and evaluation
+- Trained and compared Random Forest, Gradient Boosting, and Logistic Regression models using scikit-learn
+- Performed data preprocessing and analysis using NumPy and Pandas
+- Visualized results using Matplotlib for performance evaluation
+- Selected and optimized the best model using threshold tuning, feature importance analysis, data leakage audit, and baseline validation
 
 ---
 
