@@ -5,17 +5,10 @@ Aspiring to contribute to safety-critical and mission-critical systems where rel
 ---
 
 ## 🔧 Skills
-**Languages**: 
-Python, Java, JavaScript, TypeScript, C#, C++, R, PHP, Lua, Assembly
-
-**Frameworks**: 
-Django, ASP.NET, Angular
-
-**Tools**: 
-Git, Linux
-
-**Core Knowledge**: 
-Networking, Cybersecurity, Artificial Intelligence
+**🧠 Languages:** Python, Java, JavaScript, TypeScript, C#, C++, R, PHP, Lua, Assembly
+**⚙️ Frameworks:** Django, ASP.NET, Angular
+**🛠️ Tools:** Git, Linux
+**📚 Core Knowledge:** Networking, Cybersecurity, Artificial Intelligence
 
 ---
 
